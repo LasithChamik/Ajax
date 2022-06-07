@@ -37,7 +37,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add me to a Your Group ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔰 GROUP 🔰', url='https://t.me/Cinema_World_Sir_Lanka_Group'),
-            InlineKeyboardButton('🔥 UPDATES 🔥, url='https://t.me/Cinema_World_Bot_Updates')
+            InlineKeyboardButton('🔥 UPDATES 🔥', url='https://t.me/Cinema_World_Bot_Updates')
             ],[      
             InlineKeyboardButton('☘️ HELP ☘️', callback_data='help'),
             InlineKeyboardButton('🔎 ABOUT 🔍', callback_data='about')
@@ -80,7 +80,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add me to a Your Group ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔰 GROUP 🔰', url='https://t.me/Cinema_World_Sir_Lanka_Group'),
-            InlineKeyboardButton('🔥 UPDATES 🔥, url='https://t.me/Cinema_World_Bot_Updates')
+            InlineKeyboardButton('🔥 UPDATES 🔥', url='https://t.me/Cinema_World_Bot_Updates')
             ],[      
             InlineKeyboardButton('☘️ HELP ☘️', callback_data='help'),
             InlineKeyboardButton('🔎 ABOUT 🔍', callback_data='about')
