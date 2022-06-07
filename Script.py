@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """👋 Hey Welcome {},
-My Name is <a href=https://t.me/{}>{}</a> I'am a Cinema World Auto Filter Bot with some more Features... 🌺
+My name is <a href=https://t.me/{}>{}</a> I'am a Cinema World Auto Filter Bot with some more Features... 🌺
 
 ➕ Add me in a Your Group and promote me as Admin to let me get in action. Press /start to Restart and see all the Commands. Stay Safe & Enjoy...!
 
