@@ -19,11 +19,9 @@ My name is <a href=https://t.me/{}>{}</a> I'am a Cinema World Auto Filter Bot wi
 
 
 
-    PRIVATEBOT_TXT = """<b>𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄</b>
-<b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› coɴтᴀcт мᴇ <a href=https://t.me/Cinema_World_Owner>ʟᴀsιтн cнᴀмικᴀ</a></b>"""
+    PRIVATEBOT_TXT = """👋 Hey {},
+My name is <a href=https://t.me/{}>{}</a> I'am a Cinema World Auto Filter Bot with more Features... 🌺 
+<b>›› Contact Owner <a href=https://t.me/Cinema_World_Owner>Lasith Chamika</a></b>"""
 
     SOURCE_TXT = """<b>Donation</b>>
 
