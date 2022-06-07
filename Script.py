@@ -4,7 +4,9 @@ My name is <a href=https://t.me/{}>{}</a> I am a Cinema World Auto Filter Bot wi
 
 ➕ Add me in a Your Group and promote me as Admin to let me get in action!
 
-Press /help to see all the Commands and how they Work. Stay Safe & Enjoy!"""
+Press /help to see all the Commands and how they Work. Stay Safe & Enjoy!
+
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Owner>Lasith Chamika</a></b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """◇ мʏ ɴᴀмᴇ : {}
