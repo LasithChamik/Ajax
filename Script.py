@@ -1,6 +1,7 @@
 class script(object):
-    START_TXT = """Hey {},
-My name is <a href=https://t.me/{}>{}</a> 🌺 I am a Cinema World Auto Filter bot with some more features 🔥"""
+    START_TXT = """Hey Welcome {},
+🌺 My name is <a href=https://t.me/{}>{}</a> I am a Cinema World V3 Auto Filter Bot with some more Features... Add me in a Your Group and promote me as Admin to let me get in action!
+Press /help to see all the Commands and how they work!"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """◇ мʏ ɴᴀмᴇ : {}
