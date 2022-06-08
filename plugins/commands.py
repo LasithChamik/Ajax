@@ -36,13 +36,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add me to a Your Group ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🌷 GROUP 🌷', url='https://t.me/Cinema_World_Sir_Lanka_Group'),
-            InlineKeyboardButton('🔥 UPDATES 🔥', url='https://t.me/Cinema_World_Bot_Updates')
+            InlineKeyboardButton('🌷 Group 🌷', url='https://t.me/Cinema_World_Sir_Lanka_Group'),
+            InlineKeyboardButton('🔥 Updates 🔥', url='https://t.me/Cinema_World_Bot_Updates')
             ],[      
-            InlineKeyboardButton('☘️ HELP ☘️', callback_data='help'),
-            InlineKeyboardButton('🔎 ABOUT 🔍', callback_data='about')
+            InlineKeyboardButton('☘️ Help ☘️', callback_data='help'),
+            InlineKeyboardButton('🔎 About 🔍', callback_data='about')
             ],[
-            InlineKeyboardButton('🌺 OUR CHANNEL 🌺', url='https://t.me/Cinema_World_Sri_Lanka')
+            InlineKeyboardButton('🌺 Our Channel 🌺', url='https://t.me/Cinema_World_Sri_Lanka')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -79,13 +79,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add me to a Your Group ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🌷 GROUP 🌷', url='https://t.me/Cinema_World_Sir_Lanka_Group'),
-            InlineKeyboardButton('🔥 UPDATES 🔥', url='https://t.me/Cinema_World_Bot_Updates')
+            InlineKeyboardButton('🌷 Group 🌷', url='https://t.me/Cinema_World_Sir_Lanka_Group'),
+            InlineKeyboardButton('🔥 Updates 🔥', url='https://t.me/Cinema_World_Bot_Updates')
             ],[      
-            InlineKeyboardButton('☘️ HELP ☘️', callback_data='help'),
-            InlineKeyboardButton('🔎 ABOUT 🔍', callback_data='about')
+            InlineKeyboardButton('☘️ Help  ☘️', callback_data='help'),
+            InlineKeyboardButton('🔎 About 🔍', callback_data='about')
             ],[
-            InlineKeyboardButton('🌺 JOIN CHANNEL 🌺', url='https://t.me/Cinema_World_Sri_Lanka')
+            InlineKeyboardButton('🌺 Join Channel 🌺', url='https://t.me/Cinema_World_Sri_Lanka')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
